@@ -26,4 +26,4 @@ node_modules
 node_modules/*
 
 # Include the config data in the deployed version
-# config.js
+config.js
